@@ -46,7 +46,7 @@ Official source code, model checkpoints and training logs for paper "**Cycle Con
 
 ## 🧭 Repo Stucture
 
-[Source code](https://github.com/Genera1Z/SmoothSA).
+[Source code](https://github.com/Genera1Z/ICC).
 ```shell
 - config-randsfq/       # *** configs for RandSF.Q + ICC ***
 - config-smoothsa/      # *** configs for SmoothSA + ICC ***
@@ -65,7 +65,7 @@ Official source code, model checkpoints and training logs for paper "**Cycle Con
 - requirements.txt
 ```
 
-[Releases](https://github.com/Genera1Z/SmoothSA/releases).
+[Releases](https://github.com/Genera1Z/ICC/releases).
 ```shell
 - archive-randsfq/      # *** our RandSF.Q + ICC models and logs ***
 - archive-smoothsa/     # *** our SmoothSA + ICC models and logs ***
