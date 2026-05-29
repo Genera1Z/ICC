@@ -30,11 +30,11 @@ Official source code, model checkpoints and training logs for paper "**Cycle Con
 
 **Object discovery accuracy**: (Input resolution is **256×256** (224×224); **DINO2 ViT-S/14** is used for encoding)
 
-<img src="res/acc_obj_discov.png" style="width:98%">
+<img src="res/acc_obj_discov.png" style="width:75%">
 
 **Object recognition accuracy**:
 
-<img src="res/acc_obj_recogn.png" style="width:57%">
+<img src="res/acc_obj_recogn.png" style="width:37%">
 
 
 
