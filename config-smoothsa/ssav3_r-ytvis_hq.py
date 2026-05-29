@@ -88,7 +88,7 @@ dataset_t = dict(
     transform0=dict(type=StridedRandomSliceSequence, keys=["video", "segment"], size=5),
     transform=dict(type=Compose, transforms=transform_t),
     base_dir=...,
-    ts=20,
+    ts=30,
 )
 dataset_v = dict(
     type=YTVIS,
