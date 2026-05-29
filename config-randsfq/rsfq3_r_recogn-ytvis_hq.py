@@ -77,7 +77,7 @@ dataset_t = dict(
     ),
     transform=dict(type=Compose, transforms=transform_t),
     base_dir=...,
-    ts=20,
+    ts=30,
 )
 dataset_v = dict(
     type=YTVIS,
