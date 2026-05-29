@@ -68,7 +68,7 @@ class YTVIS(ptud.Dataset):
             import time
 
             self.keys = []
-            print(f"[{__class__.__name__}] slicing samples to length <={ts}...")
+            print(f"[{__class__.__name__}] slicing/repeating samples wrt length {ts}...")
             t0 = time.time()
             for key in self_keys:
                 with env.begin(write=False) as txn:
