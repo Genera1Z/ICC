@@ -1,3 +1,8 @@
+"""
+Copyright (c) 2026 Genera1Z
+https://github.com/Genera1Z
+"""
+
 from copy import deepcopy
 
 from einops import rearrange, repeat
